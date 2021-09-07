@@ -1,0 +1,4 @@
+manhua.fffdm.com##.pure-g
+manhua.fffdm.com##center
+manhua.fffdm.com###header
+manhua.fffdm.com##[style="width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;"]
